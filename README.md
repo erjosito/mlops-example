@@ -11,10 +11,13 @@ Notebooks and git:
 Notebooks in Azure Devops
 * [https://developercommunity.visualstudio.com/content/idea/365561/add-support-for-viewing-jupyter-ipython-notebooks.html]
 
+pip install --upgrade nbstripout
+nbstripout --install
+
 
 ### 1.a. Using a local notebook
 ![alt text][seaborn]
 
 
 
-[seaborn]: 08_seaborn.jpg "Visualizing data with the seaborn Python module"
+[seaborn]: images/08_seaborn.jpg "Visualizing data with the seaborn Python module"
